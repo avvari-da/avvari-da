@@ -1,17 +1,12 @@
-<h1 align="center">Hey there 👋!</h1>
+<h1>Hey 👋!</h1>
 
-<img align="left" height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=avvari-da&theme=vue&hide=css,tcl,html"></img>
-<img align="right" height=180em src="https://github-readme-stats.vercel.app/api?username=avvari-da&count_private=true&show_icons=true&theme=vue&include_all_commits=true"></img>
+[![Visitor](https://visitor-badge.laobi.icu/badge?page_id=avvari-da.avvari-da)](https://github.com/avvari-da) [![GitHub followers](https://img.shields.io/github/followers/avvari-da.svg?style=social&label=Follow)](https://github.com/avvari-da?tab=followers)
 
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-> Credits to [@anuraghazra](https://github.com/anuraghazra) for [github-read-stats](https://github.com/anuraghazra/github-readme-stats)
-<hr>
+<img align="left" width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=avvari-da" alt="GitHub Stats" />
+<img align="right" width="47%" height=180em src="https://github-readme-stats.vercel.app/api?username=avvari-da&count_private=true&show_icons=true&theme=vue&include_all_commits=true" />
 
-<p align="center">
-<a href="https://twitter.com/avvari_da" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="avvari_da" height="30" width="30" /></a>
-<a href="https://linkedin.com/in/dheerajavvari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dheerajavvari" height="30" width="30" /></a>
-<a href="https://stackoverflow.com/users/2256696/dheeraj-avvari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="dheeraj-avvari" height="30" width="30" /></a>
-<a href="https://fb.com/dheeraj.avvari" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="dheeraj.avvari" height="30" width="30" /></a>
-<a href="https://instagram.com/avvari_da" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="avvari_da" height="30" width="30" /></a>
-<a href="https://medium.com/@dheeraj2dj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@dheeraj2dj" height="30" width="30" /></a>
-</p>
+<br /><br /><br /><br /><br /><br /><br /><br />
+
+<h2>📫 How to reach me:</h2>
+
+<a href="mailto:dj.mech.iitkgp@gmail.com">![dj.mech.iitkgp@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/dheerajavvari/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
