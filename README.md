@@ -8,6 +8,11 @@
   <div style="clear: both"></div>
 </div>
 
+<div>
+  <img style="float: left; width: 49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avvari-da&layout=compact">
+  <div style="clear: both"></div>
+</div>
+
 <h2>📫 How to reach me:</h2>
 
 <a href="https://www.linkedin.com/in/dheerajavvari/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
