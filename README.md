@@ -3,7 +3,7 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=avvari-da.avvari-da)](https://github.com/avvari-da) [![GitHub followers](https://img.shields.io/github/followers/avvari-da.svg?style=social&label=Follow)](https://github.com/avvari-da?tab=followers)
 
 <div>
-  <img style="float: left; width: 49%" align="middle" height="200px" src="https://github-readme-stats.vercel.app/api?username=avvari-da&count_private=true&show_icons=true&theme=vue&include_all_commits=true" />
+  <img style="float: left; width: 49%" align="middle" height="200px" src="https://github-readme-stats.vercel.app/api?username=avvari-da&count_private=true&show_icons=true&theme=vue" />
   <img style="float: right; width: 49%" align="middle" height="173px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avvari-da&layout=compact">
   <div style="clear: both"></div>
 </div>
