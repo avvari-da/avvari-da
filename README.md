@@ -4,7 +4,7 @@
 
 <div>
   <img style="float: left; width: 33%" align="middle" height="200px" src="https://github-readme-stats.vercel.app/api?username=avvari-da&count_private=true&show_icons=true&theme=vue" />
-  <img style="float: left; width: 33%" align="middle" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avvari-da&layout=compact">
+  <img style="float: left; width: 33%" align="middle" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avvari-da&layout=compact">
   <img style="float: left; width: 33%" align="middle" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=avvari-da" alt="GitHub Stats" />
   <div style="clear: both"></div>
 </div>
