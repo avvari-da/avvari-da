@@ -3,12 +3,10 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=avvari-da.avvari-da)](https://github.com/avvari-da) [![GitHub followers](https://img.shields.io/github/followers/avvari-da.svg?style=social&label=Follow)](https://github.com/avvari-da?tab=followers)
 
 <div>
-  <img style="float: left; width: 49%" align="middle" height="200px" src="https://github-readme-stats.vercel.app/api?username=avvari-da&count_private=true&show_icons=true&theme=vue" />
-  <img style="float: right; width: 49%" align="middle" height="173px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avvari-da&layout=compact">
+  <img style="float: left; width: 33%" align="middle" height="200px" src="https://github-readme-stats.vercel.app/api?username=avvari-da&count_private=true&show_icons=true&theme=vue" />
+  <img style="float: left; width: 33%" align="middle" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avvari-da&layout=compact">
+  <img style="float: left; width: 33%" align="middle" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=avvari-da" alt="GitHub Stats" />
   <div style="clear: both"></div>
-</div>
-<div>
-  <img style="width: 100%" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=avvari-da" alt="GitHub Stats" />
 </div>
 
 <h2>📫 How to reach me:</h2>
