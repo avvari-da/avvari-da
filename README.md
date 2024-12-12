@@ -1,7 +1,6 @@
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=avvari-da.avvari-da)](https://github.com/avvari-da) [![GitHub followers](https://img.shields.io/github/followers/avvari-da.svg?style=social&label=Follow)](https://github.com/avvari-da?tab=followers)
 
 # Hey 👋!
-### This is Dheeraj Avvari (DJ)!
 > DevOps-oriented Full Stack Developer with expertise in Ruby on Rails and cloud infrastructure implementation. Experienced in designing and deploying scalable applications with a focus on performance optimization and infrastructure management
 
 ## 🛠 Tech Stack
