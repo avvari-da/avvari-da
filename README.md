@@ -22,4 +22,4 @@
 🐦 [X](https://x.com/avvari_da)
 
 ---
-**💡 Progress ⋙ Perfection**
+**_💡 Progress ⋙ Perfection_**
