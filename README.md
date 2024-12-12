@@ -24,6 +24,7 @@
 ## 🤝 Connect
 💼 [LinkedIn](https://www.linkedin.com/in/dheerajavvari/) <br/>
 🐦 [X](https://x.com/avvari_da)
+📷 [Instagram](https://www.instagram.com/avvari_da/)
 
 ---
 **_💡 Progress ⋙ Perfection_**
