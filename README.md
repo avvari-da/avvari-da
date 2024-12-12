@@ -23,7 +23,7 @@
 
 ## 🤝 Connect
 💼 [LinkedIn](https://www.linkedin.com/in/dheerajavvari/) <br/>
-🐦 [X](https://x.com/avvari_da)
+🐦 [X](https://x.com/avvari_da) <br/>
 📷 [Instagram](https://www.instagram.com/avvari_da/)
 
 ---
