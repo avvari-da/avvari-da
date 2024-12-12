@@ -15,7 +15,11 @@
 - Performance monitoring & analytics
 - Developer productivity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avvari-da&show_icons=true&theme=radical)
+<div>
+  <img style="float: left; width: 48%" align="middle" height="200px" src="https://github-readme-stats.vercel.app/api?username=avvari-da&count_private=true&show_icons=true&theme=radical" />
+  <img style="float: left; width: 48%" align="middle" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avvari-da&layout=compact&theme=radical">
+  <div style="clear: both"></div>
+</div>
 
 ## 🤝 Connect
 💼 [LinkedIn](https://www.linkedin.com/in/dheerajavvari/) <br/>
