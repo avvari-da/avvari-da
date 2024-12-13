@@ -5,6 +5,7 @@
 
 ## 🛠 Tech Stack
 - Backend: Ruby on Rails, GoLang, MySQL
+- Frontend: Flutter, React JS
 - DevOps: Docker, Kubernetes, Terraform, AWS
 - Monitoring: NewRelic, Mixpanel
 
